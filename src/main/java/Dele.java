@@ -16,7 +16,6 @@ public class Dele {
         File file = new File(filePath);
 
         deleteFile(file,reg);
-
     }
 
     public static void deleteFile(File file,String reg) {

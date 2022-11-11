@@ -8,7 +8,6 @@ import java.io.File;
 
 public class Windows extends JFrame {
     JButton fileButton;
-
     public Windows(){
         super("Dele");
         Container c= getContentPane();
